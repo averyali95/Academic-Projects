@@ -1,0 +1,10 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\bin\Debug\final database question.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\bin\Debug\final database question.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\bin\Debug\final database question.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final database question.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final_database_question.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final_database_question.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final database question.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final database question.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final database question.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\final database question\final database question\obj\Debug\final_database_question.ShowDetailName.resources

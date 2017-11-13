@@ -1,0 +1,9 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\bin\Debug\game.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\bin\Debug\game.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\bin\Debug\game.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\obj\Debug\game.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\obj\Debug\game.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\game\game\obj\Debug\game.pdb

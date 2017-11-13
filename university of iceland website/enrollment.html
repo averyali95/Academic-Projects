@@ -1,0 +1,102 @@
+<?php
+
+include("db.php");
+
+function redirect($to) {
+	if ( strlen($to) == 0 )
+		$url = "/dbview.php";
+	else
+		$url = $to;
+	header('Location: ' . $url, true, 302);
+
+	exit();
+}
+
+
+if ( isset($_POST['from']) )
+	$from = $_POST['from'];
+else 
+	if ( isset($_SERVER['HTTP REFERER']) )
+		$from = $_SERVER['HTTP REFERER'];
+	else
+		$from = "";
+
+
+$db = new sb_mysqli();
+session_start();
+
+$msg = "Login to access this area";
+
+if ( isset($_SESSION['usernum']) && isset($_SESSION['userid']) && isset($_SESSION['level']) ) {
+	//already logged in
+	redirect($from);
+} elseif ( isset($_POST['userid']) && isset($_POST['password']) && isset($_POST['from']) ) {
+	$result = $db->query("
+ 		SELECT usernum,userid,level FROM users
+       		WHERE userid='".$db->escape_string($_POST['userid'])."' AND password=password('".$db->escape_string($_POST['password'])."')");
+
+	if ($result && $result->num_rows == 1 ) {
+		$u = $result->fetch_assoc();
+		$_SESSION['usernum'] = $u['usernum'];
+		$_SESSION['userid'] = $u['userid'];
+		$_SESSION['level'] = $u['level'];
+		redirect($_POST['from']);
+	} else {
+		$msg = "Incorrect userid and/or password.";
+	}
+}
+
+ 
+?>
+<!DOCTYPE html>
+
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home </title>
+	<link rel="stylesheet" type="text/css" href="http://group3.sandbox.blue/style.css"> 
+	<script type="text/javascript" src=" .js"></script> <!-- add style sheet and js -->
+</head>
+
+<body>
+	<header> <!-- Header on each page -->
+	<nav>
+	<img class="logo" src="http://group3.sandbox.blue/img/schoollogo.png" alt="School logo" height="92" width="68">
+		<h1>University of Iceland </h1>
+		<ul>
+			<li><a href="index.html" >Home</a></li>
+			<li><a href="about.html">About</a></li>
+        	<li><a href="login.php" class="current">Login</a></li>			
+        	<li><a href="activities.html" >Activities</a></li>
+		</ul>
+	</nav>
+	</header>
+
+<div id="content">
+
+    <div id="main">
+      <h3><?php echo $msg; ?></h3>
+      	<form method="post">
+		<label>
+			Username:
+			<input name="userid" type="text" value="">
+		</label>
+		<p>
+		<label>
+			Password:
+			<input name="password" type="password" value="">
+		</label>
+		<p>
+		<input name="from" type="hidden" value="<?php echo $from; ?>">
+		<input type="submit" value="login">
+	</form>
+        </div>
+    </div>
+</div>
+
+	</body>
+			<footer>
+			&copy; University of Iceland. Design by Group3 <span class="myname"><!-- add a css content property to add something here --></span>
+		</footer>
+</html>

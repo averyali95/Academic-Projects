@@ -1,0 +1,6 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\classes\classes\bin\Debug\classes.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\classes\classes\bin\Debug\classes.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\classes\classes\bin\Debug\classes.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\classes\classes\obj\Debug\classes.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\classes\classes\obj\Debug\classes.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\classes\classes\obj\Debug\classes.pdb

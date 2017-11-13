@@ -1,0 +1,6 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\ArrayClassExample\ArrayClassExample\bin\Debug\ArrayClassExample.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\ArrayClassExample\ArrayClassExample\bin\Debug\ArrayClassExample.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\ArrayClassExample\ArrayClassExample\bin\Debug\ArrayClassExample.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\ArrayClassExample\ArrayClassExample\obj\Debug\ArrayClassExample.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\ArrayClassExample\ArrayClassExample\obj\Debug\ArrayClassExample.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\ArrayClassExample\ArrayClassExample\obj\Debug\ArrayClassExample.pdb

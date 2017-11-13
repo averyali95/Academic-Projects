@@ -1,0 +1,37 @@
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\bin\Debug\DataConnectionString.exe.config
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.csprojResolveAssemblyReference.cache
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.Form1.resources
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.Properties.Resources.resources
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.csproj.GenerateResource.Cache
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\bin\Debug\DataConnectionString.exe
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\bin\Debug\DataConnectionString.pdb
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.exe
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.pdb
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\bin\Debug\DataConnectionString.exe.config
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.exe
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.pdb
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\bin\Debug\DataConnectionString.exe
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\bin\Debug\DataConnectionString.pdb
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.csprojResolveAssemblyReference.cache
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.Form1.resources
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.Properties.Resources.resources
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionString\DataConnectionString\obj\Debug\DataConnectionString.csproj.GenerateResource.Cache
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\bin\Debug\DataConnectionString.exe.config
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.exe
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.pdb
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\bin\Debug\DataConnectionString.exe
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\bin\Debug\DataConnectionString.pdb
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.csprojResolveAssemblyReference.cache
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.Form1.resources
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.Properties.Resources.resources
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\bin\Debug\DataConnectionString.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\bin\Debug\DataConnectionString.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\bin\Debug\DataConnectionString.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\data connect example\DataConnectionStringStart\DataConnectionString\obj\Debug\DataConnectionString.ShowDetailName.resources

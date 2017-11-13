@@ -1,0 +1,9 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\bin\Debug\math.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\bin\Debug\math.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\bin\Debug\math.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\obj\Debug\math.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\obj\Debug\math.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\obj\Debug\math.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\obj\Debug\math.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\obj\Debug\math.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\math\obj\Debug\math.pdb

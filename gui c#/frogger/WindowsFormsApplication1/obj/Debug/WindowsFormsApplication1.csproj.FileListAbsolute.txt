@@ -1,0 +1,18 @@
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Workarea\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\frogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojResolveAssemblyReference.cache
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Form1.resources
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.Cache
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
+K:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.NameAddress.resources
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojResolveAssemblyReference.cache
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Form1.resources
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.NameAddress.resources
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+I:\1Westchester Community College\GUI DEVELOPMENT\Programs\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.NameAddress.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\DatabaseExample2\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.Cache

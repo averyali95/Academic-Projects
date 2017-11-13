@@ -1,0 +1,6 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Inheritence example\Inheritence example\bin\Debug\Inheritence example.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Inheritence example\Inheritence example\bin\Debug\Inheritence example.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Inheritence example\Inheritence example\bin\Debug\Inheritence example.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Inheritence example\Inheritence example\obj\Debug\Inheritence example.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Inheritence example\Inheritence example\obj\Debug\Inheritence example.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Inheritence example\Inheritence example\obj\Debug\Inheritence example.pdb

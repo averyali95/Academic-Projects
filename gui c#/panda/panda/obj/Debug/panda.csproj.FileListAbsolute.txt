@@ -1,0 +1,6 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\panda\panda\bin\Debug\panda.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\panda\panda\bin\Debug\panda.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\panda\panda\bin\Debug\panda.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\panda\panda\obj\Debug\panda.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\panda\panda\obj\Debug\panda.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\panda\panda\obj\Debug\panda.pdb

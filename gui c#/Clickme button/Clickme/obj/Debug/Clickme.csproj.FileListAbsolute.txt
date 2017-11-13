@@ -1,0 +1,9 @@
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\bin\Debug\Clickme.exe.config
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\bin\Debug\Clickme.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\bin\Debug\Clickme.pdb
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\obj\Debug\Clickme.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\obj\Debug\Clickme.Form1.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\obj\Debug\Clickme.Properties.Resources.resources
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\obj\Debug\Clickme.csproj.GenerateResource.Cache
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\obj\Debug\Clickme.exe
+C:\Users\Avery\Desktop\school\wcc semester 4\gui\Clickme\Clickme\obj\Debug\Clickme.pdb

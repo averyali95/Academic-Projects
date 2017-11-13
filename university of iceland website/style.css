@@ -1,0 +1,73 @@
+    header		{
+    			background-image: url("http://upload.wikimedia.org/wikipedia/commons/d/d6/Field-with-snow-champ-enneige.jpg");
+				border: 2px solid black;
+				padding:37px;
+				margin: 0px;
+				
+				
+
+			}
+
+a 			{	color:#D6D8DB;
+				text-decoration: none;
+				font-family: Arial;
+				text-transform: uppercase;
+				font-size: 32px;
+				text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000}
+a:hover		{
+				color:blue;
+			}
+a.current	{
+				color:blue;
+			}
+h1			{	display: inline;
+				font-family: Arial;
+				text-transform: uppercase;
+				font-size: 48px;
+				color: white;
+				text-shadow:3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+nav ul		{	display: inline;
+			 	position:absolute;
+			 	right:100px;
+			 	top:132px;}
+				
+nav ul li   {	display: inline;
+				display: block;
+				float:left;
+				margin-left:30px;
+				position:relative;
+				}
+footer		{
+				text-align: center;
+				background-color: lightgrey; 
+				border-top: 2px solid black;
+				border-bottom: 2px solid black;
+				width:100%;
+				margin-top: 0px;
+				position: fixed;
+				bottom:0px;
+				margin-left: auto;
+				margin-right: auto;
+				
+			}
+						
+#content{
+				width: 50%;
+				margin: auto;
+				background-color: rgba(255,255,255,0.7)!important;
+				padding-left: 30px;
+				padding-right: 30px;
+				height: 750px;
+				border: 2px solid black;
+				border-radius: 15px;
+		
+
+			}
+
+html		{ background-image: url("img/background.jpg");
+			
+			
+			}
+			

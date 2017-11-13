@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home </title>
+	<link rel="stylesheet" type="text/css" href="http://group3.sandbox.blue/style.css"> 
+	<script type="text/javascript" >
+			var slideimages = new Array() // create new array to preload images
+			slideimages[0] = new Image() // create new instance of image object
+			slideimages[0].src = "/img/school.jpg" // set image object src property to an image's src, preloading that image in the process
+			slideimages[1] = new Image()
+			slideimages[1].src = "img/school2.png"
+			slideimages[2] = new Image()
+			slideimages[2].src = "img/school3.png"
+	</script>
+	 <!-- add style sheet and js -->
+</head>
+
+<body>
+	<header> <!-- Header on each page -->
+	<nav>
+		<img class="logo" src="http://group3.sandbox.blue/img/schoollogo.png" alt="School logo" height="92" width="68">
+		<h1>University of Iceland </h1>
+		<ul>
+			<li><a href="index.html" class="current">Home</a></li>
+			<li><a href="about.html">About</a></li>
+        	<li><a href="activities.html">Activities</a></li>
+        	<li><a href="login.php">Login</a></li>			
+
+		</ul>
+	</nav>
+	</header>
+	
+	<div id="content">
+	<h1> The one and only survival school </h1>
+	
+	<!--       Under this is home specific <img id="slide" src="img/schoollogo.png" alt="School logo" height="300" width="500">
+		<script type="text/javascript"  src="slideshow.js"></script>   -->
+			<div id="images">
+				<img id="slide" src='/img/school.jpg' alt="School Building" height="310" width="460">
+				<script type="text/javascript"  src="slideshow.js"></script>
+			</div>
+		    
+	          <div id="missionstatement" >
+	            <p>Survival is an extremely unique entity in the survival and tactical community. We are setup to offer a broader array of training than any other survival school in the country or even the world. We do not differentiate between the different skills sets involved in the survival philosophy. Because just as bushcraft is important for your survival in the wilderness, tactical and defense related skills are important for your urban and combat related survival. All in all, survival is the study and practice of keeping your ASS alive no matter what is happening around you! </p>
+	        </div>
+	        
+	     
+	</div>
+           <footer>
+			&copy; University of Iceland. Design by Group3 <span class="myname"><!-- add a css content property to add something here --></span>
+		</footer>
+</body>
+
+</html>

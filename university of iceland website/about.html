@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Home</title>
+        <link rel="stylesheet" type="text/css" href="/style.css">
+        <script type="text/javascript" >
+			var slideimages = new Array() // create new array to preload images
+			slideimages[0] = new Image() // create new instance of image object
+			slideimages[0].src = "img/survival3.png" // set image object src property to an image's src, preloading that image in the process
+			slideimages[1] = new Image()
+			slideimages[1].src = "img/survival2.png"
+			slideimages[2] = new Image()
+			slideimages[2].src = "img/survival1.png"
+		</script>
+        <!-- add style sheet and js -->
+    </head>
+
+    <body>
+        <header>
+            <!-- Header on each page -->
+            <nav>
+                <img class="logo" src="/img/schoollogo.png" alt="School logo" height="92" width="68">
+                	<h1>University of Iceland </h1>
+                <ul>
+                    <li><a href="index.html">About</a>
+                    </li>
+                    <li><a href="about.html" class="current">About</a>
+                    </li>
+                    <li><a href="activities.html">Activities</a>
+                    </li>
+                    <li><a href="login.php">Login</a></li>
+
+                </ul>
+            </nav>
+        </header>
+        <div id="content">
+        
+        <div id="aboutbody">
+        <p>Iceland University, recognized for excellence by <em>Iceland News &amp; World Report
+            
+        </em>, <em>Time</em>, and "The University Review," is noted for its leadership in the use
+        of resources to enhance the teaching and learning of nature and survival .</p>
+        <p>Founded in 2014, Univeristy of Iceland's 210-acre campus overlooks the Oljga River in 
+        the heart of the capital of Reykjavik between .</p>
+        <p>What started as a school for the training of our countries citizens, has developed 
+        
+        into one of the leading Universities in the nation. Marist is ecumenical in character and
+        reflects the ideals of the founding four Avery, Milosz, Jay, and Umar.
+           We are doing whatever we can to honor our commitment to excellence in education, a 
+           pursuit of higher human values, and dedication to the principle of service.</p>
+        <p>University of Iceland is dedicated to helping students develop the intellect and 
+        character required for survival in both the wilderness and society. Our graduates can 
+        both survive out in the wild with no technology aswell as skin a bear and even create a 
+        website such as this.</p>
+		<div class="slide">
+		<img id="slide" src="img/schoollogo.png" alt="School logo" height="300" width="500">
+		<script type="text/javascript"  src="slideshow.js"></script>
+		</div>
+        </div>
+		</div>
+        <footer>&copy; University of Iceland. Design by Group3 
+        </footer>
+    </body>
+
+</html>
