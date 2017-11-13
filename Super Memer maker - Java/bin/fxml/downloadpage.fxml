@@ -1,0 +1,22 @@
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<VBox xmlns:fx="http://javafx.com/fxml" spacing="20" fx:controller="com.meme.ui.page.DownloadPage">
+    <VBox alignment="TOP_CENTER">
+        <ImageView>
+            <Image url="@../image/logo.png"/>
+        </ImageView>
+    </VBox>
+    <VBox spacing="5" alignment="CENTER">
+        <ProgressBar fx:id="progressBar" prefWidth="650" prefHeight="40"/>
+        <Label fx:id="progressLabel" text="Analyzing files...">
+            <font>
+                <Font name="Verdana" size="12.0"/>
+            </font>
+        </Label>
+    </VBox>
+
+</VBox>

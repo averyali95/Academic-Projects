@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.meme.ui.page.HomePage">
+    <center>
+        <ScrollPane fx:id="memeScroll" hbarPolicy="NEVER">
+            <VBox fx:id="memePane" alignment="CENTER" prefWidth="1198" spacing="10"/>
+        </ScrollPane>
+    </center>
+    <bottom>
+        <HBox fx:id="buttonPane" alignment="CENTER" minHeight="75" spacing="7">
+            <Button fx:id="wallButton" prefWidth="200" prefHeight="30">View Meme Wall</Button>
+            <Button fx:id="customButton" prefWidth="200" prefHeight="30">Use Your Own</Button>
+            <Button fx:id="chooseButton" prefWidth="200" prefHeight="30" disable="true">Choose</Button>
+            <Button fx:id="helpButton" prefWidth="200" prefHeight="30">Help</Button>
+            <Button fx:id="logoutButton" prefWidth="200" prefHeight="30">Logout</Button>
+        </HBox>
+    </bottom>
+</BorderPane>

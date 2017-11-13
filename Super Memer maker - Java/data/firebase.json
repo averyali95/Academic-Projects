@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "memegenerator-186e1",
+  "private_key_id": "d9c3089a6cd7b190e1ad69c81c07313b5615bf9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtUd6a6IR9gg/O\n2JAM1audQMUSqiSShr1m7HwxgrcIkp+P5rq7iG3watH8/ggxK9usCgnvK9lJNdRF\nvKSbEkpqyPl5TYEyzp4weEzqBq5f3CxJqHQ5SIzim/D0lRHbvmH1KFNLg9ka9xR4\niuI+o7CR74pwHPfzLFpZXmNGM13WKs4Kg2t00NdbSmeQDI0l4dVT5aY7u2TDEALX\nxbhwRjb7O2GsI0ePciPxmkITPA7R31hX2+Rr6AHD/r9C1tJBh2kaG8uppCphUVx9\nr6apj2kZbo0Iw8IghlHjdLN70BUUZ7Ybk71PJc8526+Mmuae0La0xSnZXxHbpUXz\n9TvnBBQpAgMBAAECggEBAJVBqcgRcPd8qAxjZzoGT/HuM0itiS0+J6GZCiLBBMq3\nKf4Mnsac6MBf3VJXmcpukJCJXKDBTC/F0XX0zHRWvgtT47NY0Whlksj+8I2hD02y\nF9me3efu2JTV4h1eurBYNZegEIs5kh+so85jHA8BfC9Q8BE4gTbC/VN0+10bIzYo\n38kZaPLa5FoHwV73UotF5etm0C6m1E8lda0tp/5RhZFfBjuQ0OhB11r3lrGF4pl1\ndSJb9rNI8HgmHFoJaw6zqyy72HH0MRIHmF+TUOsoGTte5AOgHe2j8efy6q7CEocm\nmTKpPT+MMToiYsKbfwVZLfOyD9h7pltHMIfcCawhduECgYEA1kWTMVqIdIxeFbV0\n4/nq3G9c0Gw6TejRnlFYZWGLVriI9dEkBHdg9sRb3Yo2fhA2Q6eHkc2Ak6tkWxRw\nwWi2AmfqRKSqbDIh8eNU22rR+5M5+LzxgBTV/vns8tL0PmS4UiRsHvhR5G5zWtDy\nX4CHAgGIA5lX0UafkNZeLeATeIUCgYEAzxKm5gg6+zZJsxVPy6IY12AN4GQNU9Mr\nLwjGcQWrWsEey8nDyyrsl1wT4iF0S+mtJsLG0s7iynhoqCpYN5VbI/F0zvFAF0Kk\nNM0fV/BmQ2M94XpCgbRMubvQMFhjNniPI2dx3QW+5ODRqSklW95kwu4UQ7HtqBju\nB9sLikZt0FUCgYEAr4+oD5sPDPdpqz3W/WfqwBxansbearFk9uPNmpt2sGJYjZiD\ne0lY4Dd40acKCPY9j+c3FAad3+BhRKMV09J4trXv47hLjoTw/SD3iSQX0poJuL0O\n3pOz1stuEnM3/dtGjr8a+7EYYCMDTxi+TfOgKsuYZuKAao8D9Ic/+TSMn4UCgYBp\nZ8UtMuNTHL9HOYH01f5vI6XsowFluggxWPYqcghXmhZjBcF0mdT09xnn8b+RJNHO\n+Tbb+BPZnJEpiOR+5rgOA8rBzGwjavjLJ97clLJ5evr025cfDvg/UysWcOePwq6a\nBv4e093oA8i1owwxR3NjBm2qR9gByS7hMM8fA9rCQQKBgHQlU3JE9VWfVYJmgJFk\n2tCs5p0FWVWfpJp/fYk7RQemaJdzkEOeSZwvb2vFGZ5iPNkPcbrzdCUVzGIz+65w\n4ml2QSJirQ2KCI1Y3Av+KVTJEQKoaxHjtvY5ozXdohOLVUidBb3Fw6ywss7Eh+R/\nGDzzEfdMSZnSwwBLkUlXHhiX\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gcctm@memegenerator-186e1.iam.gserviceaccount.com",
+  "client_id": "118304977942256384419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gcctm%40memegenerator-186e1.iam.gserviceaccount.com"
+}

@@ -1,0 +1,47 @@
+.root {
+    -fx-background-image: url("../image/BlkBackground.jpg");
+    -fx-background-size: cover;
+}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FF8C00;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+#resetPassword {
+   -fx-font-size: 20px;
+   -fx-font-family: "Arial Black";
+   -fx-font-color: red;
+   -fx-fill: #FFFFFF;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#nameField{
+	-fx-border-color: red;
+}
+
+#usernameField{
+	-fx-border-color: red;
+}
+
+#passwordField{
+	-fx-border-color: red;
+}
+
+#confirmPassField{
+	-fx-border-color: red;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#DC143C, #FF8C00);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#8B0000, #FF4500);
+}

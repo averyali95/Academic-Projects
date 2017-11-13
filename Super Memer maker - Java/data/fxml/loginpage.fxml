@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<VBox xmlns:fx="http://javafx.com/fxml" spacing="15" fx:controller="com.meme.ui.page.LoginPage">
+
+    <VBox alignment="TOP_CENTER">
+        <ImageView>
+            <Image url="@../image/logo.png"/>
+        </ImageView>
+        <Text fx:id= "SignIn" text="Sign In">
+            <font>
+                <Font name="Arial" size="20"/>
+            </font>
+        </Text>
+    </VBox>
+
+    <GridPane alignment="CENTER" hgap="10" vgap="10">
+    	<Label text="Username:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+	    <TextField promptText="Username" fx:id="usernameField" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+    	<Label text="Password:" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+    	<PasswordField promptText="Password" fx:id="passwordField" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+    </GridPane>
+
+    <HBox spacing="15" alignment="BOTTOM_CENTER">
+    	<Button fx:id="loginButton" text="Login"/>
+    	<Button fx:id="registerButton" text="Register"/>
+		<Button fx:id="forgotButton" text="Forgot Password"/>
+	 </HBox>
+</VBox>

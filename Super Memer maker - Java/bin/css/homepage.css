@@ -1,0 +1,36 @@
+.root {
+    -fx-background-image: url("../image/BlkBackground.jpg");
+    -fx-background-size: cover;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+    -fx-control-inner-background: transparent;
+}
+
+#buttonPane {
+    -fx-background-color: #141414;
+    -fx-border-color: #000000;
+    -fx-border-width: 1 0 0 0;
+}
+
+.image-view-wrapper:border {
+    -fx-border-color: #FFFFFF;
+    -fx-border-style: solid;
+    -fx-border-width: 3;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#DC143C, #FF8C00);
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#8B0000, #FF4500);
+}

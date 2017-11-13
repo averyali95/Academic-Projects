@@ -1,0 +1,44 @@
+.root {
+    -fx-background-image: url("../image/BlkBackground.jpg");
+    -fx-background-size: cover;
+}
+
+pane {
+    -fx-border-color: black;
+    -fx-background-color: #000000;
+}
+
+#progressBar > .bar {
+    -fx-background-color: #FF4500;
+    -fx-background-insets: 3 3 4 3;
+    -fx-background-radius: 2;
+    -fx-padding: 0.75em;
+}
+
+#progressLabel {
+    -fx-background-insets: 3 3 4 3;
+    -fx-background-radius: 2;
+    -fx-padding: 0.75em;
+    -fx-text-fill: white;
+}
+
+#font-button {
+    -fx-font: bold italic 20pt "Arial";
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+
+#button{
+    -fx-text-fill: red;
+    -fx-border-color: orange;
+    -fx-border-radius: 8;
+    -fx-padding: 10 10 10 10;
+}
+
+#TopBar {
+	-fx-background-color: black;
+}
+
+#titleText {
+	-fx-font-family: 'VT323', monospace;
+	-fx-font-size: 120px;
+}

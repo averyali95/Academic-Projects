@@ -1,0 +1,20 @@
+.root {
+    -fx-background-image: url("../image/BlkBackground.jpg");
+    -fx-background-size: cover;
+}
+
+.label {
+	-fx-font-size: 20px;
+	-fx-text-fill:  #FF8C00;		
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#DC143C, #FF8C00);
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#8B0000, #FF4500);
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.meme.ui.page.HelpPage">
+
+    <center>
+        <VBox alignment="CENTER" spacing="5">
+            <Label wrapText="true" text="What is a meme you may ask? It is simply a picture with text over it that envokes laughter according to the Internet."/>
+            <Label wrapText="true" text="First you will select an image, then you will press the create meme button after the image has been selected.  " />
+            <Label wrapText="true" text="You can only select one picture at a time. You will then add text to the top and/or bottom of the picture.  " />
+            <Label wrapText="true" text="Then you will save the image and have the option to upload your finished meme to your account for public display.  " />
+        </VBox>
+    </center>
+
+    <bottom>
+        <VBox prefHeight="50" alignment="CENTER">
+            <Button fx:id="backButton" prefWidth="150" prefHeight="30">Back</Button>
+        </VBox>
+    </bottom>
+
+</BorderPane>
